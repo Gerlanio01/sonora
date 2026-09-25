@@ -1,0 +1,1 @@
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "com.gerlanio.sonora", "sha256_cert_fingerprints": ["d3b6b42dd81cffa343f255f83dca8e7085abddc87e97214e666e8cdb5ef82524"]}}]
